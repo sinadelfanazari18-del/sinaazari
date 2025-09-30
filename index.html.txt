@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سایت سینا</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>سلام دنیا! 🌟</h1>
+    <p>این سایت توسط مهندس سینا آذری ساخته شده است.</p>
+    <button onclick="sayHello()">کلیک کن</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
